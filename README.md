@@ -1,5 +1,5 @@
 # demo
-[dependency-hell](./public/dependecy-hell.png)
+![dependency-hell](./public/dependecy-hell.png)
 
 ## setup
 
